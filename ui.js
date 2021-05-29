@@ -99,9 +99,9 @@ class UI{
 
    //timer to remove alert
    setTimeout(()=>{
-     //This is called after 2 seconds
+     //This is called after 3 seconds
      this.clearAlert();
-   },2000);
+   },3000);
  }
 
   //To clear alert message
